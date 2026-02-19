@@ -20,6 +20,16 @@ Con ayuda de Spyder, una multiplataforma que nos posibilita programar en python,
 <img width="1024" height="768" alt="PARTE B" src="https://github.com/user-attachments/assets/50fd5325-d73e-4ed2-94c6-0eb55baa63d5" />
 <img width="1103" height="708" alt="2b" src="https://github.com/user-attachments/assets/f16d3a0f-53c5-43d6-8f27-c08964289e44" />
 
+## Resultados
+Al realizar el paso a paso de los diagramas de flujo enunciados anteriormente, se obtiene:
+* Señal obtenida de la plataforma PhysioNet
+* Histogramas
+* Datos calculados manualmente y con las funciones predeterminadas
+* Señal simulada
+* Histograma de señal simulada
+* Señal con ruido
+
+
 ## Discusión
 __¿Los valores estadísticos calculados sobre la señal sintética son exactamente iguales a los obtenidos a partir de la señal real? ¿Por qué?__
 <p align="justify">
