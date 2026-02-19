@@ -5,7 +5,7 @@ Este proyecto contiene el código para analizar y caracterizar una señal biomé
 programación.
 ## Propósito
 <p align="justify">
-Esta práctica es muy importante para futuros ingenieros biomédicos que se encuentran en formación académica, principalmente para aquellos que quieren incursionar en el campo de análisis de señales. Les ayuda a entender el comportamiento de estas señales y el porqué es tan importante conocer cómo se ve la presencia de un ruido, ya sea por temas de cables, respiración, mala toma de datos, etc; a partir de los resultados con unos buenos cálculos estadísticos se lograría un mejor entendimiento de esta, brindando prontos diagnósticos al paciente.
+Esta práctica es muy importante para futuros ingenieros biomédicos que se encuentran en formación académica, principalmente para aquellos que quieren incursionar en el campo de análisis de señales. Les ayuda a entender el comportamiento de estas señales y el porqué es tan importante conocer cómo se ve la presencia de un ruido, ya sea por temas de cables, respiración, mala toma de datos, etc; a partir de los resultados obtenidos se realizan cálculos estadísticos pertinenetes que les permita mejorar su entendimiento, además ayuda a brindar diagnósticos prontos al paciente.
   
 ## Metodología
 <p align="justify">
