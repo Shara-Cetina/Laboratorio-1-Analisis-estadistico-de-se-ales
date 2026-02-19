@@ -83,4 +83,5 @@ Los valores estadísticos calculados sobre la señal sintética no son exactamen
 Por otra parte, se observan diferencias importantes en la media y la desviación estándar, lo que puede demostrar que las señales no están centradas o escaladas de la misma forma. Por último, la señal real proviene de un paciente sometido a 4 fármacos que prolongan el intervalo QT (según la investigación en PhysioNet), lo que altera la morfología del ECG y afecta parámetros como la asimetría y la curtosis.
 
 **¿Afecta el tipo de ruido el valor de la SNR calculado? ¿Cuáles podrían ser las razones?**
+<p align="justify"> 
 La SNR es la relación potencia de la señal y la potencia del ruido, es por esto mismo que según el tipo de ruido puede cambiar ya que cada uno maneja una distribución de energía distinta, por ejemplo, el ruido gaussiano divide su potencia de manera uniforme y continua, generando una alteración moderada en la señal, mientras que el ruido impulso concentra mucha energía en puntos de tiempo breves (picos), lo que altera el promedio de potencia, debido a que esta se calcula a partir del cuadrado de la amplitud, lo que reduce más la SNR.
