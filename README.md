@@ -16,24 +16,27 @@ Con ayuda de Spyder, una multiplataforma que nos posibilita programar en python,
 
 ## Diagrama de flujo
 ## Parte A
-<img width="1024" height="768" alt="3" src="https://github.com/user-attachments/assets/63c10fc7-996d-470d-81f0-a036ee70bcfa" />
+<img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/e41fa865-f3e8-485a-9629-2fc6c196c184" />
 
 <img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/a08de90d-691a-4cfd-ac28-682e9e8d84a4" />
 
-<img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/e41fa865-f3e8-485a-9629-2fc6c196c184" />
-
-<img width="1024" height="768" alt="6" src="https://github.com/user-attachments/assets/c798d786-fa98-4491-8260-e5ced81cad20" />
-
-<img width="1024" height="768" alt="5" src="https://github.com/user-attachments/assets/6e095d92-7dfc-4556-a1e5-c87661f9f3be" />
+<img width="1024" height="768" alt="3" src="https://github.com/user-attachments/assets/63c10fc7-996d-470d-81f0-a036ee70bcfa" />
 
 <img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/658406d6-ea53-4e7b-b77d-d6cd61adc66f" />
 
+<img width="1024" height="768" alt="5" src="https://github.com/user-attachments/assets/6e095d92-7dfc-4556-a1e5-c87661f9f3be" />
 
+<img width="1024" height="768" alt="6" src="https://github.com/user-attachments/assets/c798d786-fa98-4491-8260-e5ced81cad20" />
 
 
 ## Parte B
 
-<img width="1162" height="862" alt="jhjh" src="https://github.com/user-attachments/assets/50da1776-2aef-460e-a05f-00ffe21b9408" />
+<img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/2876f8ca-718c-4ef5-85e2-c30312887fc7" />
+
+<img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/0f0327fb-3709-4597-9c7f-f318782dc1fe" />
+
+<img width="1024" height="768" alt="3" src="https://github.com/user-attachments/assets/662d41f1-b813-431a-a637-32757202da17" />
+
 
 ## Parte C
 
